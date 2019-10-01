@@ -1,0 +1,95 @@
+@import  'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css';
+
+.App {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #002f43;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.jumbotron h1 {
+  font-size: 40px;
+  text-align:left;
+  padding-left: 5%
+}
+
+.jumbotron p {
+  font-size: 15px;
+  text-align:left;
+  padding-left: 5%
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.Loginmodule {
+  position: absolute;
+  top: 15vh;
+  height: 40vh;
+  left: 75%;
+  background-color: #002f43;
+  color: white;
+  font-weight: bold;
+
+}
+
+.Loginimage{
+  min-height: 90vh;
+  position: fixed;
+  left: 0%;
+  width: 75%;
+}
+
+
+.navbar-custom {
+  color: white;
+  background-color: rgb(70, 145, 215);
+  
+}
+
+nav .navbar-nav li a{
+  color: white !important;
+  font-size: 15px;
+  }
+ 
+.navbar-brand
+{
+  font-size: 10px !important;
+}
+
+
+.App-footer {
+  width: 100%;
+  background-color: #292b2c;
+  font-size: 15px;
+  text-align: left;
+  color: white;
+  height: 5vh;  
+}

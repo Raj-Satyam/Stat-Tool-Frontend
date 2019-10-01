@@ -1,0 +1,67 @@
+/* .containerabc{
+    min-height: 140vh;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+.selectionBox{
+    padding-block-end: 30px;
+    width: 95%;
+    border: 2px solid black;
+    padding: 1%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    margin-block-start: 2.5%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 25px;
+}
+
+.checkboxesleft{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.selectionbuttons{
+    padding-top: 1.5%;
+}
+
+.checkboxesright{
+    display: flex;
+    flex-direction: column;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.selectionboxbottom{
+    margin-left: 2.5%
+}
+
+
+.Bumpgraph{
+    border: 2px solid black;
+    border-radius: 25px;
+    align-content: center;
+    margin-top: 5%;
+    margin-left: 7.5%;
+    width: 85%;
+} */
+
+
+
+.customlinechart{
+    width: 95%;
+    min-height: 80vh;
+}
+
+
+.customdrawer{
+    width: 20%;
+    align-content: center;
+}
+
+.customdropdowns {
+    width: 80px;
+    padding-left: 2%;
+}

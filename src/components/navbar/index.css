@@ -1,0 +1,16 @@
+@import  'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css';
+
+.navbar-custom {
+  color: white;
+  background-color: rgb(70, 145, 215);
+  
+}
+
+nav .navbar-nav li a{
+  color: white !important;
+  }
+ 
+.logout_button {
+  margin-right: 2%;
+}
+

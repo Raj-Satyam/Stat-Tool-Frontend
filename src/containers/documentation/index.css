@@ -1,0 +1,26 @@
+.Collapsible{
+    align-content: center;
+    border: #ffffff;
+    border: thick;
+}
+
+.Collapsible__contentInner {
+    padding: 10px;
+    border: 1px solid;
+    border-top: 0;
+
+    
+
+}
+
+.Collapsible__trigger {
+    display: block;
+    font-weight: 400;
+    text-decoration: none;
+    color: grey;
+    position: relative;
+    border: 1px solid white;
+    padding: 10px;
+    background:#3d9970;
+    color: white;
+}

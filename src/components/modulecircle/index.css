@@ -1,0 +1,39 @@
+
+
+.moduleCircle {
+    background-color: #002f43;
+    border-radius: 50%; 
+    height:250px;
+    width:250px;
+    color: white;
+    text-align: bottom;
+}
+
+.Automated-logo {
+    width:30%;
+    margin: auto;
+    display: block;
+    padding-top: 25%;
+}
+
+.moduleHeading {
+    text-align: center;
+    font-size: 20px;
+    padding: 5%;
+}
+
+.moduleIconDiv {
+    padding: 5%;
+    text-align: center;
+}
+
+.col-xs-4 {
+    width: 33.33%;
+}
+
+.moduleRow{
+    width: 100%;
+    background-image: url(/home/musigma/Desktop/stattool_v1/frontend/src/components/pics/home_background.png); 
+}
+
+

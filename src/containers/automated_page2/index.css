@@ -1,0 +1,70 @@
+.normal {
+  color: #002f43;
+  border-right-style: dotted;
+  /*background-color: #efefef;*/
+  font-weight: bold;
+  text-align: center;
+  align-items: center;
+}
+
+
+
+.normaldropdown {
+padding-top: 5%;
+font: status-bar;
+color: #002f43;
+}
+
+.normalbutton {
+padding: 5%;
+}
+
+
+
+
+.mixed {
+  height: 80vh;
+  /*background-color: #efefef;*/
+  font-size: calc(5px + 2vmin);
+  font-weight: bold;
+  text-align: center;    
+}
+
+.containernormal {
+  position: absolute;
+  align-items: center;
+  padding-left: 10px;
+}
+
+
+.btn-success{
+padding: 10px;
+}
+
+
+.containernormal {
+margin-left : 15%;
+}
+
+
+.modalokay{
+float: left;
+margin-left: 10%;
+}
+
+
+.modalcancel{
+float: right;
+margin-right: 10%;
+}
+
+.modalheader{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border-bottom-color: red;
+}
+
+
+.normalproressbar{
+width: 50%;
+margin-left: 25%;
+}
